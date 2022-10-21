@@ -9,7 +9,7 @@ Bài tập lớn - Số học thuật toán
     - MSV: 18020688
     - Trường: Đại học Công Nghệ
 
-## 2. Giới thiệu chung cấu trúc bài tâp lớn
+## 2. Giới thiệu chung cấu trúc thuật toán RSA
 
   - ***CreateKey.py***: Tạo khóa cho mã hóa RSA
 
